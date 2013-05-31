@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1369091261287
+Build-Jdk: 1.7.0_17
+Built-By: david
+Bundle-Description: An OSC library implementation in Java - Core
+Bundle-DocURL: http://illposed.com
+Bundle-License: http://www.opensource.org/licenses/BSD-3-Clause
+Bundle-ManifestVersion: 2
+Bundle-Name: JavaOSC - Core
+Bundle-SymbolicName: com.illposed.osc.javaosc-core
+Bundle-Vendor: Illposed
+Bundle-Version: 0.3.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.illposed.osc;version="0.3.0.SNAPSHOT"
+Main-Class: com.illposed.osc.JavaOSCRunnerUtility
+Package: com.illposed.osc
+Tool: Bnd-1.50.0
